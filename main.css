@@ -5,10 +5,25 @@ body {
   }
   
   header {
+    display: flex;
+    align-items: center;
     background-color: #333;
     color: white;
     padding: 20px;
-    text-align: center;
+  }
+  
+  .icon-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon {
+    height: 50px;
+    margin-right: 20px;
+  }
+  
+  .icon-text {
+    margin: 0;
   }
   
   nav {
@@ -49,4 +64,3 @@ body {
     text-align: center;
     padding: 20px;
   }
-  
