@@ -1,0 +1,87 @@
+body {
+  background-color: #070707;
+  background-image: url("https://uploads-ssl.webflow.com/635d6f8b6c0ae05458589bdc/635d710547d1618b468368e1_image-1.png");
+  background-position: 0% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  font-family: Inter, sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: -0.3px;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
+}
+
+.div-block {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+} 
+.text-block-2 {
+  display: inline-block;
+  overflow: visible;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 26px;
+  line-height: 150%;
+  font-style: normal;
+  font-weight: 350;
+  text-align: center;
+  text-decoration: none;
+  white-space: normal;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+.text-span-2 {
+  color: #783ff3;
+}
+.image-4 {
+  margin-right: 10px;
+}
+.spacing_24 {
+  height: 24px;
+}
+.line_divider {
+  width: 100%;
+  height: 1px;
+  background-color: #181818;
+}
+.div-block {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
